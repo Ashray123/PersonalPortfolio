@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Ashray jha",
+    "occupation":"Student|Developer|Tech-Enthusiast",
+    "description":"A student by day && a Developer by night",
+    "image":"Ashray.jpg",
+    "bio":"I am a Developer with a passion for Technology and creating new Stuffs !!",
+    "contactmessage":"You can contact me here",
+    "email": "ashrayjha12@gmail.com",
+    "phone": "+91 8789820767",
+    "address":{
+      "street":"Jitpur Hospital colony",
+      "city":" Dhanbad ",
+      "state":"Jharkhand",
+      "zip": "828309"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1XgiTjZ_m8l9eqCJ2bslGalsNvYBoN6sf/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ashray.jha.3",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AshrayJha",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ashray-jha-7aa4bb121/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ashu_jha12/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Ashray123",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have web-development Experience with HTML5, CSS , JAVASCRIPT ,REACT and i have also published Technical article on GeeksForGeeks!",
+    "education":[
+      {
+        "school":"GANDHI INSTITUTE FOR TECHNOLOGICAL ADVANCEMENT",
+        "degree":"Bachelor of Technology in Computer Science & Engineering",
+        "graduated":"May 2022",
+        "description":"Coursework includes Ds,Algo,OS,Networking and DBMS"
+      },
+      {
+        "school":"D.A.V Public School",
+        "degree":"Intermediate",
+        "graduated":"april 2017",
+        "description":"Coursework includes  Mathematics , Science and Computer Science (C++).  "
+      }
+    ],
+    "work":[
+      {
+        "company":"Suven Consultants & pvt Ltd",
+        "title":" Web-Development Intern ",
+        "years":"Dec 2020 - Jan 2021 ",
+        "description":"Worked with the team to decide on the Front-end of the Business Web-app and later supported the development process by making large contribuition to the code base. "
+      },
+      {
+        "company":"Widhya",
+        "title":"Web-Development Intern",
+        "years":"Jan 2021 - present",
+        "description":"Working on four different category of Web-apps and will later deploy it to the server after making required test's."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"70%"
+      },
+      {
+        "name":"REACT",
+        "level":"65%"
+      },
+      {
+        "name":"GIT",
+        "level":"70%"
+      },
+      {
+        "name":"GITHUB",
+        "level":" 70%"
+      },
+      {
+        "name":"NODE",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"365 Movies",
+        "category":"Movies app which displays movies according to their genre",
+        "image":"365-movies.png",
+        "url":"https://subglobular-curls.000webhostapp.com/"
+      },
+      {
+        "title":"Devils Family",
+        "category":"Family of Devil's",
+        "image":"Devils-family.png",
+        "url":"https://ashray123.github.io/devil-family/"
+      },
+      {
+        "title":"Amazon-clone",
+        "category":"A clone of the popular Ecommerce website",
+        "image":"amazon.png",
+        "url":"https://amzcln.herokuapp.com/"
+      },
+      {
+        "title":"Tribute- page",
+        "category":"A Tribute page to our honble Prime minister",
+        "image":"modi.png",
+        "url":"https://tribute-page12.000webhostapp.com/"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Fav-Quote :  I have never tried to hide the fact that it is my intention to become the best ",
+        "user":" Cristiano Ronaldo"
+      },
+      {
+        "text":" I might not be the best of all but i always make sure that i complete my work before going to bed . If i am given an opportunity to work with the Experienced Individuals then i will surely make it count! :) "
+        
+      }
+    ]
+  }
+}
