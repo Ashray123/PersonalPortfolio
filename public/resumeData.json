@@ -63,6 +63,12 @@
     ],
     "work":[
       {
+        "company" : "GeeksforGeeks",
+        "title" : "Technical Content Writer internship",
+        "years" : "Jan 2021 - present"
+        "description" : "Wrote and Published many articles related to a popular tech stack on GeeksforGeeks (a very popular learning platform for computer science students ."
+      },
+      {
         "company":"Suven Consultants & pvt Ltd",
         "title":" Web-Development Intern ",
         "years":"Dec 2020 - Jan 2021 ",
@@ -71,7 +77,7 @@
       {
         "company":"Widhya",
         "title":"Web-Development Intern",
-        "years":"Jan 2021 - present",
+        "years":"Jan 2021 - Feb 2021",
         "description":"Working on four different category of Web-apps and will later deploy it to the server after making required test's."
       }
     ],
